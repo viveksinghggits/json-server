@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Dell Laptop",
+      "price":2000
+    },
+    {
+        "id": 2,
+        "title": "Printer",
+        "price":300
+    },
+    {
+        "id": 3,
+        "title": "Furniture",
+        "price":3000
+    },
+    {
+        "id": 4,
+        "title": "Samsung Phone",
+        "price":1000
+    },
+    {
+        "id": 5,
+        "title": "KeyBoard",
+        "price":500
+    },
+    {
+        "id": 6,
+        "title": "Music System",
+        "price":200
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
