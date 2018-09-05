@@ -44,6 +44,11 @@
         "id": 9,
         "title": "Another product",
         "price":80
+    },
+    {
+        "id": 10,
+        "title": "Berska",
+        "price":80
     }
   ],
   "profile": {
