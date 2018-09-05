@@ -34,6 +34,11 @@
         "id": 7,
         "title": "Blue Tooth Speaker",
         "price":2000
+    },
+    {
+        "id": 8,
+        "title": "Manfield Shoes",
+        "price":80
     }
   ],
   "profile": {
