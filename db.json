@@ -39,6 +39,11 @@
         "id": 8,
         "title": "Manfield Shoes",
         "price":80
+    },
+    {
+        "id": 9,
+        "title": "Another product",
+        "price":80
     }
   ],
   "profile": {
