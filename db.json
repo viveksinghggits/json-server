@@ -29,6 +29,11 @@
         "id": 6,
         "title": "Music System",
         "price":200
+    },
+    {
+        "id": 7,
+        "title": "Blue Tooth Speaker",
+        "price":2000
     }
   ],
   "profile": {
